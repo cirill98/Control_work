@@ -2,5 +2,8 @@
 string[] array2 = new string[array1.Length];
 for (int i = 0; i < array1.Length; i++)
 {
-    
+    if (array1[i].Length <= 3)
+    {
+        
+    }
 }
